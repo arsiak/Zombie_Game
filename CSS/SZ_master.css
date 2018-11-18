@@ -1,0 +1,47 @@
+html {
+  height:100%;
+}
+
+body {
+  padding: 0 0 0 0;
+  margin: 0;
+  user-select: none;
+  background-color: red;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  user-select: none;
+  user-drag: none;
+  -webkit-user-drag: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+#SZ0_0 {
+  position: fixed;
+  top:0;
+  left:0;
+  min-width: 100%;
+  max-width: 100%;
+}
+
+#SZ0_1{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+#SZ0_2{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+#SZ0_3{
+ position: fixed;
+ top: 0;
+ right: 0;
+}
